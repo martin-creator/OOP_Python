@@ -1,4 +1,4 @@
-# Object-Oriented Programming in Python Live Training
+# Object-Oriented Programming in Python Live Training 2023
 
 This is the code for the *Safari Live Training* - **Object-Oriented Programming in Python** presented by Arianne Dee
 
